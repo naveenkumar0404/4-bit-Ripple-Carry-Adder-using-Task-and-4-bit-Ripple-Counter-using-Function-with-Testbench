@@ -1,4 +1,4 @@
-# Exp-No: 07 - 4-bit Ripple Carry Adder using Task and 4-bit Ripple Counter using Function with Testbench
+# Exp-No: 05 - 4-bit Ripple Carry Adder using Task and 4-bit Ripple Counter using Function with Testbench
 
 **Aim:** 
 
